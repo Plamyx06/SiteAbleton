@@ -257,14 +257,16 @@
     @media (min-width: 640px) { 
      .panel-blog__navbar2 { 
       padding: 3% 10%;
-     }}
+      }}
     @media (min-width: 768px) { 
      .panel-blog__navbar2 { 
       padding: 3% 15%;
+      font-size: 20px;
      }}
      @media (min-width: 1080px) { 
      .panel-blog__navbar2 { 
       padding: 3% 25%;
+      font-size: 24px;
      }} 
       
 
