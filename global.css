@@ -10,7 +10,7 @@
   }
   body {
     font-family: futura-pt;
-    font-size: 20px;
+    font-size: 16px;
   }
   .navbar__logo__img {
     padding: 25px 25px;
@@ -84,6 +84,7 @@
   .main-footer {
     padding-left: 8vw;
     padding-right: 8vw;
+    font-size: 16px;
   }
   .main-footer__contain {
     padding: 20px 0px;
